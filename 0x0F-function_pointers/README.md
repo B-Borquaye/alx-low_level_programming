@@ -10,3 +10,4 @@ op_div: returns the result of the division of a by b. Prototype: int op_div(int 
 op_mod: returns the remainder of the division of a by b. Prototype: int op_mod(int a, int b);
 3-get_op_func.c: contains the function that selects the correct function to perform the operation asked by the user.
 3-main.c:  contains your main function of the program(3). 
+100-main_opcodes.c: prints the opcodes of its own main function.
